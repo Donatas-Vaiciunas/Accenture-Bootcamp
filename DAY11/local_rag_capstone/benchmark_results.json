@@ -11,7 +11,7 @@
     "completion_tokens": 82,
     "tokens_per_second": 35.7,
     "quality_rating": 4,
-    "rating_note": "why"
+    "rating_note": "The response is accurate and concise, but could be slightly more detailed regarding the Sun's influence."
   },
   {
     "model": "qwen3.5:4b-q4_K_M",
@@ -25,7 +25,7 @@
     "completion_tokens": 275,
     "tokens_per_second": 39.3,
     "quality_rating": 5,
-    "rating_note": "nothing m"
+    "rating_note": "Nothing more to add"
   },
   {
     "model": "qwen3.5:4b-q4_K_M",
@@ -38,8 +38,8 @@
     "prompt_tokens": 66,
     "completion_tokens": 44,
     "tokens_per_second": 34.5,
-    "quality_rating": 1,
-    "rating_note": "it doesnt sumarized, just repeated what is given"
+    "quality_rating": 3,
+    "rating_note": "Faithful and one sentence, but long and close to the original wording"
   },
   {
     "model": "qwen3.5:4b-q4_K_M",
@@ -66,8 +66,8 @@
     "prompt_tokens": 30,
     "completion_tokens": 288,
     "tokens_per_second": 39.1,
-    "quality_rating": null,
-    "rating_note": ""
+    "quality_rating": 5,
+    "rating_note": "Function works well and is easy to understand."
   },
   {
     "model": "qwen3.5:4b-q4_K_M",
@@ -80,8 +80,8 @@
     "prompt_tokens": 38,
     "completion_tokens": 32,
     "tokens_per_second": 33.9,
-    "quality_rating": null,
-    "rating_note": ""
+    "quality_rating": 5,
+    "rating_note": "Good structure and clarity in the tips provided."
   },
   {
     "model": "qwen3.5:2b-q4_K_M",
@@ -94,8 +94,8 @@
     "prompt_tokens": 27,
     "completion_tokens": 87,
     "tokens_per_second": 25.9,
-    "quality_rating": null,
-    "rating_note": ""
+    "quality_rating": 3,
+    "rating_note": "Given sentences as asked but accuracy is slightly off: the Sun's influence is not due to proximity but mass, and the Moon's influence is stronger due to its closeness."
   },
   {
     "model": "qwen3.5:2b-q4_K_M",
@@ -108,8 +108,8 @@
     "prompt_tokens": 49,
     "completion_tokens": 402,
     "tokens_per_second": 77.4,
-    "quality_rating": null,
-    "rating_note": ""
+    "quality_rating": 5,
+    "rating_note": "Accurate and well-structured explanation."
   },
   {
     "model": "qwen3.5:2b-q4_K_M",
@@ -122,8 +122,8 @@
     "prompt_tokens": 66,
     "completion_tokens": 33,
     "tokens_per_second": 64.9,
-    "quality_rating": null,
-    "rating_note": ""
+    "quality_rating": 3,
+    "rating_note": "Changes the meaning: drops the debate and assigns the knowledge-sharing issues to junior staff only"
   },
   {
     "model": "qwen3.5:2b-q4_K_M",
@@ -136,8 +136,8 @@
     "prompt_tokens": 33,
     "completion_tokens": 39,
     "tokens_per_second": 70.6,
-    "quality_rating": null,
-    "rating_note": ""
+    "quality_rating": 5,
+    "rating_note": "Correct and valid JSON format."
   },
   {
     "model": "qwen3.5:2b-q4_K_M",
@@ -150,8 +150,8 @@
     "prompt_tokens": 30,
     "completion_tokens": 256,
     "tokens_per_second": 76.8,
-    "quality_rating": null,
-    "rating_note": ""
+    "quality_rating": 5,
+    "rating_note": "Accurate and well-structured implementation."
   },
   {
     "model": "qwen3.5:2b-q4_K_M",
@@ -164,7 +164,7 @@
     "prompt_tokens": 38,
     "completion_tokens": 32,
     "tokens_per_second": 66.8,
-    "quality_rating": null,
-    "rating_note": ""
+    "quality_rating": 5,
+    "rating_note": "Clear and concise tips for writing effective emails."
   }
 ]

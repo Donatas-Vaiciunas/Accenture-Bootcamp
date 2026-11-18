@@ -47,7 +47,7 @@
     "retrieval_time_ms": 79,
     "generation_time_ms": 1462,
     "passed": true,
-    "rating_note": ""
+    "rating_note": "Correctly gives 25 PTO days. It does not mention that PTO is in addition to public holidays."
   },
   {
     "id": "q02",
@@ -97,8 +97,7 @@
     "retrieval_time_ms": 15,
     "generation_time_ms": 1862,
     "passed": true,
-    "rating_note": ""
-  },
+    "rating_note": "Correctly gives the annual professional development budget of EUR 2,0 that it resets on January 1 and does not carry over"},
   {
     "id": "q03",
     "question": "What is the maximum nightly hotel rate for domestic and international travel?",
@@ -147,7 +146,7 @@
     "retrieval_time_ms": 20,
     "generation_time_ms": 2462,
     "passed": true,
-    "rating_note": ""
+    "rating_note": "Answer is little bit too long but correct and matches the expected answer, providing the specific maximum nightly rates for domestic and international travel."
   },
   {
     "id": "q04",
@@ -197,7 +196,7 @@
     "retrieval_time_ms": 30,
     "generation_time_ms": 1781,
     "passed": true,
-    "rating_note": ""
+    "rating_note": "The answer is correct and matches the expected answer."
   },
   {
     "id": "q05",
@@ -247,7 +246,7 @@
     "retrieval_time_ms": 18,
     "generation_time_ms": 1873,
     "passed": true,
-    "rating_note": ""
+    "rating_note": "Gives the correct Q1 2026 ARR of EUR 18.2 million, but omits the 23% year-over-year growth."
   },
   {
     "id": "q06",
@@ -297,7 +296,7 @@
     "retrieval_time_ms": 18,
     "generation_time_ms": 1197,
     "passed": true,
-    "rating_note": ""
+    "rating_note": "Correctly gives the 15-minute acknowledgment time. It does not mention assembling the Incident Response Team within 30 minutes."
   },
   {
     "id": "q07",
@@ -347,7 +346,7 @@
     "retrieval_time_ms": 15,
     "generation_time_ms": 9974,
     "passed": true,
-    "rating_note": ""
+    "rating_note": "Covers several key differences, including critical response times and Enterprise support. It omits Professional’s exact support hours and email support, and includes extra details. "
   },
   {
     "id": "q08",
@@ -396,8 +395,8 @@
     "tokens_generated": 259,
     "retrieval_time_ms": 23,
     "generation_time_ms": 7725,
-    "passed": true,
-    "rating_note": ""
+    "passed": false,
+    "rating_note": "Gives the cost figures and Freshsales rejection, but says the final choice was deferred rather than identifying HubSpot Enterprise as the replacement."
   },
   {
     "id": "q09",
@@ -447,7 +446,7 @@
     "retrieval_time_ms": 33,
     "generation_time_ms": 2067,
     "passed": false,
-    "rating_note": ""
+    "rating_note": "Gives the total budget but cannot provide its allocation across categories."
   },
   {
     "id": "q10",
@@ -497,7 +496,7 @@
     "retrieval_time_ms": 14,
     "generation_time_ms": 3748,
     "passed": true,
-    "rating_note": ""
+    "rating_note": "Gives the 52-account and 61% revenue figures and top-10 concentration. It omits the 6.1% customer share and EUR 2.93M figure."
   },
   {
     "id": "q11",
@@ -547,7 +546,7 @@
     "retrieval_time_ms": 17,
     "generation_time_ms": 7711,
     "passed": true,
-    "rating_note": ""
+    "rating_note": "The answer is correct and matches the expected answer, providing specific requirements for remote work."
   },
   {
     "id": "q12",
@@ -596,8 +595,8 @@
     "tokens_generated": 125,
     "retrieval_time_ms": 35,
     "generation_time_ms": 4033,
-    "passed": true,
-    "rating_note": ""
+    "passed": false,
+    "rating_note": "Gives the older three-day policy but misses the Q3 2026 update to four days and incorrectly says Tuesday and Thursday are mandatory office days."
   },
   {
     "id": "q13",
@@ -647,7 +646,7 @@
     "retrieval_time_ms": 25,
     "generation_time_ms": 2722,
     "passed": true,
-    "rating_note": ""
+    "rating_note": "Correctly describes the 90-day handbook policy and 180-day employee-account update. It omits that infrastructure credentials remain at 90 days."
   },
   {
     "id": "q14",
@@ -696,8 +695,8 @@
     "tokens_generated": 22,
     "retrieval_time_ms": 27,
     "generation_time_ms": 1552,
-    "passed": true,
-    "rating_note": ""
+    "passed": false,
+    "rating_note": "Gives only the Q1 report’s date and misses that the meeting notes give a different release date."
   },
   {
     "id": "q15",
@@ -746,8 +745,8 @@
     "tokens_generated": 107,
     "retrieval_time_ms": 19,
     "generation_time_ms": 3531,
-    "passed": false,
-    "rating_note": ""
+    "passed": true,
+    "rating_note": "Correctly says the price is undecided and identifies the scenarios being modelled. It omits the current EUR 29 price.."
   },
   {
     "id": "q16",
@@ -797,7 +796,7 @@
     "retrieval_time_ms": 18,
     "generation_time_ms": 2311,
     "passed": true,
-    "rating_note": ""
+    "rating_note": "Correctly says the documents do not specify a contractor remote-work policy."
   },
   {
     "id": "q17",
@@ -847,6 +846,6 @@
     "retrieval_time_ms": 19,
     "generation_time_ms": 2102,
     "passed": true,
-    "rating_note": ""
+    "rating_note": "Correctly says the documents do not provide the CEO’s salary."
   }
 ]
