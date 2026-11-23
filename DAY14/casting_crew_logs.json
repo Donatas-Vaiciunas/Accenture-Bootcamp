@@ -1,0 +1,43 @@
+{
+  "execution_summary": {
+    "start_time": "2026-11-23T14:46:05.448259",
+    "end_time": "2026-11-23T14:46:13.318074",
+    "duration_seconds": 7.87,
+    "total_events": 4
+  },
+  "events": [
+    {
+      "timestamp": "2026-11-23T14:46:05.448263",
+      "event_type": "CREW_START",
+      "agent": "System",
+      "details": {
+        "message": "Crew execution started"
+      }
+    },
+    {
+      "timestamp": "2026-11-23T14:46:05.459184",
+      "event_type": "TASK_START",
+      "agent": "Casting Crew",
+      "details": {
+        "tasks": 2
+      }
+    },
+    {
+      "timestamp": "2026-11-23T14:46:13.317769",
+      "event_type": "TASK_COMPLETE",
+      "agent": "Casting Crew",
+      "details": {
+        "status": "success"
+      }
+    },
+    {
+      "timestamp": "2026-11-23T14:46:13.318097",
+      "event_type": "CREW_END",
+      "agent": "System",
+      "details": {
+        "message": "Crew execution completed",
+        "duration_seconds": 7.87
+      }
+    }
+  ]
+}
